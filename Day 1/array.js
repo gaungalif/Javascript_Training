@@ -16,3 +16,4 @@ const kumpulanHewan = [
 //splice
 kumpulanHewan.splice(2, 0, "kadal")
 console.log(kumpulanHewan)
+console.log(...kumpulanHewan)
