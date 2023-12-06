@@ -63,25 +63,25 @@
 // console.log(methodsClass.getFirstField)
 
 // static methods & property
-class StaticMethodsClass {
-    static firstStaticField = "first static field"
-    static secondStaticField
-    static{
-        this.secondStaticField = "second static field"
-    }
+// class StaticMethodsClass {
+//     static firstStaticField = "first static field"
+//     static secondStaticField
+//     static{
+//         this.secondStaticField = "second static field"
+//     }
 
-    static firstStaticMethod() {
-        return `ini static method dari ${StaticMethodsClass.name}`
-    }
-}
+//     static firstStaticMethod() {
+//         return `ini static method dari ${StaticMethodsClass.name}`
+//     }
+// }
 
-console.log(StaticMethodsClass.firstStaticField)
-console.log(StaticMethodsClass.secondStaticField)
-console.log(StaticMethodsClass.firstStaticMethod())
+// console.log(StaticMethodsClass.firstStaticField)
+// console.log(StaticMethodsClass.secondStaticField)
+// console.log(StaticMethodsClass.firstStaticMethod())
 
-// // this keyword
+// this keyword
 // class ThisKeywordClass {
-//     firstField = "first field"
+//     firstField = "this keyword"
 
 //     get getFirstField() {
 //         return this.firstField
@@ -95,6 +95,7 @@ console.log(StaticMethodsClass.firstStaticMethod())
 // const thisKeywordClass = new ThisKeywordClass()
 // console.log(thisKeywordClass.getFirstField)
 // thisKeywordClass.setFirstField = "nilai first field diubah"
+// console.log(thisKeywordClass.getFirstField)
 
 // property
 // class PropertyClass {
@@ -105,7 +106,7 @@ console.log(StaticMethodsClass.firstStaticMethod())
 // }
 
 // const propertyClass = new PropertyClass()
-// console.log(propertyClass.param1)
+// console.log(propertyClass.param1 = "bebek" )
 // console.log(propertyClass.param2)
 
 // field
@@ -117,14 +118,14 @@ console.log(StaticMethodsClass.firstStaticMethod())
 //     #privateField2 = "private field 2"
 
 //     get getPrivateField() {
-//         return this.#privateField
+//         return this.#privateField2
 //     }
 // }
 
 // const fieldClass = new FieldClass()
 // console.log(fieldClass.field1)
 // console.log(fieldClass.field2)
-// // console.log(fieldClass.#privateField)
+// console.log(fieldClass.#privateField)
 // console.log(fieldClass.getPrivateField)
 
 // inheritance
@@ -162,17 +163,29 @@ console.log(StaticMethodsClass.firstStaticMethod())
 //     get checkWeight() {
 //         return this.weight
 //     }
+    // set setValue(value) {
+    //     this.name = value[0]
+    //     this.weight = value[1]
+    //     this.age = value[2]
+    // }
 // }
-
+// const kucing = new Kucing()
+// kucing.callCat()
+// kucing.giveFood()
+// give name to anggora rumah
 // const anggoraRumah = new Anggora()
 // const anggoraLiar = new Anggora()
+// anggoraRumah.setValue = ["anggora rumah", 15, 1]
 
-// console.log(anggoraRumah.color)
+// call cat
+// anggoraLiar.callCat()
+// anggoraLiar.giveFood()
+// anggoraRumah.giveFood()
 // console.log(anggoraLiar.field )
 
 
 
-// super
+// super/parent class
 // class Kucing {
 //     #alive = true
 //     #datang = false
@@ -203,6 +216,7 @@ console.log(StaticMethodsClass.firstStaticMethod())
 //     }
 // }
 
+// // child class
 // class Anggora extends Kucing {
 //     name = "anggora"
 //     color = "putih"
@@ -219,11 +233,16 @@ console.log(StaticMethodsClass.firstStaticMethod())
 //     }
 // }
 
-// const anggoraRumah = new Anggora("anggora rumah", 10, 2)
-// const anggoraLiar = new Anggora("anggora liar", 20, 3);
+// const anggoraRumah = new Anggora("ciko", 15, 1);
+// const anggoraLiar = new Anggora("usil", 5, 3);
 
 // anggoraLiar.giveFood();
 // anggoraLiar.callCat();
 // anggoraLiar.giveFood();
+
+// anggoraRumah.giveFood();
+// anggoraRumah.callCat();
+// anggoraRumah.giveFood();
+
 
 
