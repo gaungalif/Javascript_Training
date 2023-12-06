@@ -25,6 +25,6 @@
 // array forEach
 // const kucing = ['anggora', 'persia', 'kampung']
 // kucing.forEach((item, index) => {
-//     console.log(`index ke-${index} adalah ${item}`)
-// }
+//         console.log(`index ke-${index} adalah ${item}`)
+//     }
 // )
