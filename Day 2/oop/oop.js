@@ -186,56 +186,56 @@
 
 
 // super/parent class
-// class Kucing {
-//     #alive = true
-//     #datang = false
+class Kucing {
+    #alive = true
+    #datang = false
 
-//     name = "kucing"
-//     color = "hitam"
+    name = "kucing"
+    color = "hitam"
 
-//     constructor(weight = 5, age = 1) {
-//         this.weight = weight
-//         this.age = age
-//     }
+    constructor(weight = 225, age = 221) {
+        this.weight = weight
+        this.age = age
+    }
 
-//     callCat() {
-//         console.log(`hai ${this.name}!`)
-//         this.#datang = true
-//     }
+    callCat() {
+        console.log(`hai ${this.name}!`)
+        this.#datang = true
+    }
 
-//     giveFood() {
-//         if (this.#datang) {
-//             console.log(`sedang memberi ${this.name} makan`)
-//         } else {
-//             console.log(`${this.name} tidak datang`)
-//         }
-//     }
+    giveFood() {
+        if (this.#datang) {
+            console.log(`sedang memberi ${this.name} makan`)
+        } else {
+            console.log(`${this.name} tidak datang`)
+        }
+    }
 
-//     get checkWeight() {
-//         return this.weight
-//     }
-// }
+    get checkWeight() {
+        return this.weight
+    }
+}
 
 // // child class
-// class Anggora extends Kucing {
-//     name = "anggora"
-//     color = "putih"
-//     constructor(name = "anggora", weight = 10, age = 2) {
-//         super(weight, age)
-//         this.name = name
-//     }
-//     callCat() {
-//         if (super.callCat()) return 
-//             console.log(`${this.name} datang`)
-//     }
-//     get checkWeight() {
-//         return super.checkWeight
-//     }
-// }
+class Anggora extends Kucing {
+    name = "anggora"
+    color = "putih"
+    constructor(name, weight, age) {
+        super(weight, age)
+        this.name = name
+    }
+    callCat() {
+        if (super.callCat()) return 
+            console.log(`${this.name} datang`)
+    }
+    get checkWeight() {
+        return super.checkWeight
+    }
+}
 
-// const anggoraRumah = new Anggora("ciko", 15, 1);
-// const anggoraLiar = new Anggora("usil", 5, 3);
-
+const anggoraRumah = new Anggora("ciko", 2, 1);
+const anggoraLiar = new Anggora("usil", 5, 2);
+console.log(anggoraRumah.checkWeight)
 // anggoraLiar.giveFood();
 // anggoraLiar.callCat();
 // anggoraLiar.giveFood();
