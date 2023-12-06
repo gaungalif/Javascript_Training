@@ -3,7 +3,7 @@ const profile = {
     lastName: "Alif",
     age: 22
   }
-  console.log(profile.firstName)
+
   const { lastName } = profile;
    
   console.log(lastName);  
