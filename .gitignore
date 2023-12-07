@@ -15,5 +15,5 @@ resources/.arch-internal-preview.css
 
 # Ignore all node_modules directories
 node_modules/
-.tap
+.tap/
 coverage/
