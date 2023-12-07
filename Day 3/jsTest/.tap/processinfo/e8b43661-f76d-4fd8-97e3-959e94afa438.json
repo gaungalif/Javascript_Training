@@ -1,0 +1,238 @@
+{
+  "date": "2023-12-07T07:59:50.785Z",
+  "argv": [
+    "C:\\Program Files\\nodejs\\node.exe",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\tapSum.test.js"
+  ],
+  "execArgv": [
+    "--import=file:///H:/workspace/repository/Javascript_Training/Day%203/jsTest/node_modules/@isaacs/ts-node-temp-fork-for-pr-2009/import.mjs",
+    "--import=file:///H:/workspace/repository/Javascript_Training/Day%203/jsTest/node_modules/@tapjs/mock/dist/esm/import.mjs",
+    "--enable-source-maps",
+    "--import=file:///H:/workspace/repository/Javascript_Training/Day%203/jsTest/node_modules/@tapjs/processinfo/dist/esm/import.mjs"
+  ],
+  "NODE_OPTIONS": "\"--import=file:///H:/workspace/repository/Javascript_Training/Day%203/jsTest/node_modules/@tapjs/processinfo/dist/esm/import.mjs\"",
+  "cwd": "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest",
+  "pid": 20244,
+  "ppid": 20108,
+  "parent": null,
+  "uuid": "e8b43661-f76d-4fd8-97e3-959e94afa438",
+  "files": [
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\tapSum.test.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\walk-up-path\\dist\\mjs\\index.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\find-star-match.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\index.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\read-json.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\index.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\glob.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\has-magic.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\brace-expansion\\index.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\assert-valid-pattern.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\ast.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\escape.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\unescape.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\path-scurry\\dist\\mjs\\index.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\pattern.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\walker.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\brace-expressions.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\lru-cache\\dist\\esm\\index.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minipass\\dist\\esm\\index.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\ignore.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\processor.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\loader.mjs",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\hooks.mjs",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\mock-service-client.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\mock-service.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\dist\\esm\\index.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\index.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\is-relative-require.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\export-line.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\munge-mocks.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\resolve-mock-entry-point.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\service-key.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\commonjs\\service-key.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\dist\\esm\\call-site-like.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\get-all-conditional-values.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\dist\\esm\\require-resolve.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\get-all-conditions.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\get-unique-condition-sets.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-all-exports.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-all-local-imports.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-conditional-value.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-import.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\is-windows.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\dist\\esm\\parse.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\get-named-exports-list.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\get-conditional-values-list.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\read-pkg.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\errors.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-export.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\star-glob.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\to-path.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\find-dep-package.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\to-file-url.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\file-exists.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-dependency-export.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-package-import.js",
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\sum.js"
+  ],
+  "sources": {
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\walk-up-path\\dist\\mjs\\index.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\walk-up-path\\src\\index.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\find-star-match.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\find-star-match.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\index.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\src\\index.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\read-json.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\read-json.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\index.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\src\\index.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\glob.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\src\\glob.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\has-magic.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\src\\has-magic.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\assert-valid-pattern.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\src\\assert-valid-pattern.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\ast.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\src\\ast.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\escape.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\src\\escape.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\unescape.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\src\\unescape.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\path-scurry\\dist\\mjs\\index.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\path-scurry\\src\\index.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\pattern.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\src\\pattern.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\walker.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\src\\walker.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\dist\\mjs\\brace-expressions.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minimatch\\src\\brace-expressions.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\lru-cache\\dist\\esm\\index.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\lru-cache\\src\\index.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minipass\\dist\\esm\\index.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\minipass\\src\\index.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\ignore.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\src\\ignore.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\dist\\esm\\processor.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\glob\\src\\processor.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\mock-service.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\src\\mock-service.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\dist\\esm\\index.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\src\\index.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\index.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\index.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\is-relative-require.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\is-relative-require.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\export-line.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\src\\export-line.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\munge-mocks.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\src\\munge-mocks.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\resolve-mock-entry-point.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\src\\resolve-mock-entry-point.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\esm\\service-key.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\src\\service-key.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\dist\\commonjs\\service-key.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\mock\\src\\service-key-cjs.cts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\dist\\esm\\call-site-like.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\src\\call-site-like.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\get-all-conditional-values.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\get-all-conditional-values.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\dist\\esm\\require-resolve.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\src\\require-resolve.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\get-all-conditions.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\get-all-conditions.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\get-unique-condition-sets.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\get-unique-condition-sets.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-all-exports.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\resolve-all-exports.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-all-local-imports.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\resolve-all-local-imports.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-conditional-value.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\resolve-conditional-value.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-import.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\resolve-import.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\is-windows.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\is-windows.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\dist\\esm\\parse.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\@tapjs\\stack\\src\\parse.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\get-named-exports-list.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\get-named-exports-list.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\get-conditional-values-list.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\get-conditional-values-list.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\read-pkg.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\read-pkg.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\errors.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\errors.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-export.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\resolve-export.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\star-glob.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\star-glob.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\to-path.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\to-path.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\find-dep-package.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\find-dep-package.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\to-file-url.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\to-file-url.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\file-exists.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\file-exists.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-dependency-export.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\resolve-dependency-export.ts"
+    ],
+    "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\dist\\esm\\resolve-package-import.js": [
+      "H:\\workspace\\repository\\Javascript_Training\\Day 3\\jsTest\\node_modules\\resolve-import\\src\\resolve-package-import.ts"
+    ]
+  },
+  "root": "e8b43661-f76d-4fd8-97e3-959e94afa438",
+  "externalID": "tapSum.test.js",
+  "code": 0,
+  "signal": null,
+  "runtime": 5189.9126
+}

@@ -1,0 +1,49 @@
+{
+  "result": [
+    {
+      "scriptId": "639",
+      "url": "file:///H:/workspace/repository/Javascript_Training/Day%203/jsTest/sum.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 269,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "sum",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 160,
+              "count": 5
+            },
+            {
+              "startOffset": 52,
+              "endOffset": 76,
+              "count": 3
+            },
+            {
+              "startOffset": 78,
+              "endOffset": 136,
+              "count": 3
+            },
+            {
+              "startOffset": 136,
+              "endOffset": 159,
+              "count": 2
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    }
+  ],
+  "timestamp": 25338.98603,
+  "source-map-cache": {}
+}
